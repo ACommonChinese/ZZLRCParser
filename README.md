@@ -3,13 +3,6 @@
 ###配置
 直接把ZZLRCParser.h和.m文件拖入工程，无须配置  
 
-####or  
-
-```
-source 'https://github.com/ACommonChinese/ZZLRCParser.git'
-pod 'ZZLRCParser', '~> 1.0.0'
-```
-
 
 ###使用方法
 
